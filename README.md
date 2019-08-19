@@ -10,7 +10,8 @@ The workshop consists of two lessons:
 
 Topics covered:
 - web-scraping
-- regular expression operations, geovisualisation, 
+- regular expression operations
+- geovisualisation 
 
 Libraries used:
 BeautifulSoup
