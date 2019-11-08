@@ -2,7 +2,8 @@
 
 Begginer's level workhop on web-scraping and interactive geovisualization with Python for students of the Kyiv School of Economics. 
 
-The workshop consists of two lessons:
+The workshop consists of two lessons. 
+Links to Google Colab notebooks: 
 1. Web-scraping with BeautifulSoup: http://bit.ly/2KJv5Xw  
 2. Brief summary of web-scraping with BS4, geovisualization, regular expression operations: http://bit.ly/2Za2bnm 
 
