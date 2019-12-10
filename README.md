@@ -21,4 +21,6 @@ re
 pandas
 folium
 
-
+Contacts:
+Olena Nikulina: nikulynaolena@gmail.com
+Peter Bodnar: peterbodnar1213@gmail.com
